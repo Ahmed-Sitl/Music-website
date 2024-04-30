@@ -1,6 +1,6 @@
 # Music Website
 
-This is a simple music website created using HTML and CSS.
+This is a simple music website created using HTML, CSS and JavaScript.
 
 ## Description
 
@@ -16,13 +16,13 @@ This website is designed to showcase various music albums, artists, and genres. 
 ## Installation
 
 1. Clone the repository to your local machine:
-
-git clone https://github.com/yourusername/music-website.git
-
+```
+git clone https://github.com/Ahmed-Sitl/music-website.git
+```
 2. Navigate to the project directory:
-
+```
 cd music-website
-
+```
 
 3. Open the `index.html` file in your web browser to view the website.
 
